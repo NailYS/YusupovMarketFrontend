@@ -1,0 +1,34 @@
+.bucket {
+    text-align: right;
+    color: #0b2760;
+}
+
+.cl {
+    text-align: left;
+    color: #1c394b;
+    padding: 10px;
+}
+
+.bucket img {
+    width: 110px;
+    float: start;
+    padding: 10px;
+}
+
+.dto_name {
+    text-align: left;
+    padding: 10px;
+    color: #3a3752;
+    border-style: solid;
+    border-color: #0A673DFF;
+}
+
+.button {
+    border-color: black;
+    color: #e9eee1;
+    background-color: #182654;
+}
+
+.newButton {
+    background-color: #c4bfbf;
+}

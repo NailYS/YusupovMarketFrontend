@@ -1,0 +1,26 @@
+.name_area {
+    height: 25px;
+    width: 200px;
+    background-color: #d9f3dc;
+}
+
+.text {
+    color: #3a3752;
+}
+
+.button {
+    height: 30px;
+    color: #eeeded;
+    background-color: #0b8d53;
+}
+
+.borders {
+    border-style: dashed;
+    border-color: #0a673d;
+}
+
+.deleteButt {
+    height: 30px;
+    color: white;
+    background-color: red;
+}

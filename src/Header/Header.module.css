@@ -1,0 +1,15 @@
+
+.headerControl {
+    grid-area: h;
+    background-color: #112626;
+}
+
+.headerControl img {
+    width: 90px;
+}
+
+.span {
+    color: #24834e;
+    padding: 600px;
+    font-size:40px;
+}

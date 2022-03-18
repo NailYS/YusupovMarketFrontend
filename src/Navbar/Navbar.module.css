@@ -1,0 +1,25 @@
+.nav {
+    background-color: #e1ded9;
+    height: 2000px;
+}
+
+.nav {
+    grid-area: n;
+}
+
+.item {
+    color: #42b672;
+}
+
+.item a.activeLink {
+    color: #15a27e;
+}
+
+.item a {
+    text-decoration: none
+}
+
+.nav img {
+    height:23px;
+    width: 30px
+}
